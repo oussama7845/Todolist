@@ -1,0 +1,166 @@
+
+
+header h4{
+    color: white;
+    
+}
+
+.teams a{
+  
+    color: white;
+    
+
+}
+.teams .team{
+    margin-left: 10px;
+    
+  
+}
+.disconnect a{
+    text-decoration: none;
+
+}
+
+
+header{
+display: flex;
+justify-content: space-between;
+background-color: rgb(85, 84, 84);
+margin-bottom: 25px;
+
+}
+
+.head_1 svg{
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.head_1 h3{
+    margin-top: 35px;
+}
+
+.head_1{
+    display: flex;
+    color: white;
+    margin-bottom: 15px;
+    
+    
+    
+}
+body{
+    margin:0;
+}
+.todolist{
+    display:grid;
+    grid-template-columns: 33% 33% 33%;
+}
+.todolist > div{
+  
+    margin:20px;
+    padding-left: 20px;
+
+
+} 
+.border_box1{
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+}
+
+.border_box1 a{
+    margin:auto 0;
+}   
+
+.border_box1 h3{
+    color: white;
+    margin-left: 8px;
+}
+
+.border_tasks{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    margin-top:10px;
+    background-color: gainsboro;
+}
+.border_tasks h3{
+    margin-left: 8px;
+    
+
+}
+
+.border_tasks .icone_edit_trash{
+    margin:auto 0 ;
+    
+
+}
+.border_tasks .icone_edit_trash svg{
+    color: black;
+}
+.texte_titre_desc p{
+    margin-left: 10px;
+}
+.user_comment{
+    display: flex;
+    border: solid black 1px;
+    background-color: gainsboro;
+    border-radius: 5px;
+    padding: 5px;
+    
+    
+}
+
+.user_comment p{ 
+   margin:auto 0;
+    
+}
+
+.disconnect_index{
+    background-color: gray;
+    width: fit-content;
+    
+    padding: 5px;
+    border-radius: 10px;
+    height: fit-content;
+    margin-top: 20px;
+    
+    
+  
+
+}
+.disconnect_index a {
+    color: white;
+    text-decoration: none;
+    
+}
+.team_ a{
+    text-decoration: none;
+    color: white;
+    
+}
+.team_{
+    margin: auto 0;
+}
+
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    padding: 20px;
+    background-color: #f0f5f5;
+}
+
+form{
+    background-color: white;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 10px;
+ 
+}
+
+table{
+    margin-top: 50px;
+
+}
+
+
